@@ -1,4 +1,4 @@
-## "Fractional-order position control for the fully-actuated Hexa-rotor: SITL simulations in the PX4 firmware"
+## "Fractional-Order Control on PX4 Firmware: Open-Source Implementation for Fully-Actuated Hexa-Rotors"
 This repository contains complementary material for the above paper.
 
 ![example](https://github.com/andresmr13/Hexarotor_fractional_control_for_PX4/blob/main/cover.jpg)
